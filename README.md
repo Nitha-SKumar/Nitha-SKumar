@@ -7,5 +7,5 @@
 
 #### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nitha-s-kumar-23326b27/)
-- [GitHub]([https://github.com/naveen6052531](https://github.com/Nitha-SKumar)
+- [GitHub](https://github.com/Nitha-SKumar)
 
