@@ -2,7 +2,7 @@
 
 #### About Me
 - 🎓 **Background**:  Armed with a degree in Electronics and Communication, I've channeled my passion into the vibrant world of Data Analytics.
-- 🛠️ **Skills**: Power BI, Excel, MySQL, Python, Pandas, Git.
+- 🛠️ **Skills**: **Power BI**, **Excel**, **MySQL**, **Python**, **Pandas**, **Numpy**, **Git**.
 - 📫 **Reach Out to Me**:  [nithaskumar@gmail.com](mailto:nithaskumar@gmail.com)
 
 #### Connect with Me
